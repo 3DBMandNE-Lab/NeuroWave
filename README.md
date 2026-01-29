@@ -118,18 +118,8 @@ Create a CSV file with columns:
 - `Lum_score` (raw luminescence values)
 - `Replicate` (optional)
 
-#### Step 2: Run the analysis
-```r
-# Load the analysis script
-rmarkdown::render("cytotoxicity_assay/ldh_cytotoxicity_analysis.Rmd",
-                  params = list(
-                    data_path = "path/to/your/ldh_data.csv",
-                    cell_type = "GBM",  # or "Astrocyte" or "Microglia"
-                    output_dir = "ldh_results"
-                  ))
-```
 
-#### Step 3: Interpret results
+#### Step 2: Interpret results
 Output includes:
 - Normalized cytotoxicity values
 - Statistical comparisons
