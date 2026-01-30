@@ -85,9 +85,7 @@ BiocManager::install(c("ConsensusClusterPlus", "BiocParallel", "ggrast"))
 devtools::install_github("nsgrantham/ggdark")
 remotes::install_github("davidsjoberg/ggstream")
 devtools::install_github("hrbrmstr/streamgraph")
-devtools::install_github("cardiomoon/moonBook")
-devtools::install_github("cardiomoon/webr")
-devtools::install_github('exaexa/scattermore')
+
 
 # Load all packages
 invisible(lapply(required_packages, library, character.only = TRUE))
