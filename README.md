@@ -31,6 +31,8 @@ microwave_analysis/
 ├── transcriptomics/              # RNA-seq analysis
 │   ├── Transcriptomics_BulkSeq_Analysis.Rmd
 │   ├── msigdb_databases/         # Pathway databases
+├── Thermal Analysis/              # Temprature measurements
+│   ├── Thermal_analysis.Rmd
 └──── 
 
 ```
