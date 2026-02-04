@@ -1,6 +1,6 @@
 # NeuroWave - Exploring Microwave exposure effects on glial cells 
 
-A comprehensive computational pipeline for analyzing cellular responses to microwave stimulation across multiple modalities: morphology, calcium dynamics, cytotoxicity, and transcriptomics.
+A comprehensive computational pipeline for analyzing cellular responses to microwave stimulation across multiple modalities: morphology, calcium dynamics, cytotoxicity, Thermal profiling and transcriptomics.
 
 ## 📊 Overview
 
