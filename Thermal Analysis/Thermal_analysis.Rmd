@@ -1,12 +1,4 @@
 
-
-```
-thermal-imaging-analysis/
-└── analysis.Rmd
-```
-
-and knit to HTML/PDF.
-
 ---
 
 # analysis.Rmd
@@ -14,7 +6,7 @@ and knit to HTML/PDF.
 
 ---
 title: "Thermal Imaging Microwave Experiment"
-author: "Your Name"
+author: "Vatsa D. Jariwala, Uniklinik Freiburg"
 date: "`r Sys.Date()`"
 output:
   html_document:
