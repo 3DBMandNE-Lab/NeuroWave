@@ -8,7 +8,7 @@ This repository contains a complete analysis suite for studying cellular respons
 - **Morphological analysis** (CellProfiler outputs)
 - **Calcium imaging** (GCaMP fluorescence traces)
 - **Cytotoxicity assays** (LDH measurements)
-- **Transcriptomics** (RNA-seq data)
+- **Transcriptomics** (Bulk RNA-seq data)
 
 Each analysis module is designed to be modular, reproducible, and produces publication-ready visualizations.
 
